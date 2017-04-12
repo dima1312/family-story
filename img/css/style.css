@@ -1,0 +1,42 @@
+body{
+/*    background: #E1E0E1;*/
+    
+}
+footer{
+    color:cornflowerblue;
+    border: 2px solid blue;
+    padding: 10px;
+    background:#905BAE;
+    margin-top: 40%;
+}
+h1{
+    background:#FFFF00;
+    text-align: center;
+}
+section{
+    display: inline-block;
+    width: 850px;
+    height: 550px;
+    text-align: left;
+    padding: 10px;
+}
+p{
+  /*  display: inline-block; */
+    background: green;
+    margin-left: 20px;
+    float: left;
+}
+    p.text{
+      background: green;
+        position: relative;
+        margin-left: 40px;
+       /* float: left;*/
+    }
+p.button{
+    background: #EEE8AA;
+    /*float: left;*/
+}
+
+small{
+    margin-left: 90%;
+}
